@@ -1,1 +1,1 @@
-# vscoderep
+# vscode用のリポジトリ
